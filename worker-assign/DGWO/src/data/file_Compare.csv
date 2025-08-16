@@ -1,0 +1,9 @@
+Case,Mach,Asse
+A1,Machine_A1_Compare,Assembly_A1_Compare
+A2,Machine_A2_Compare,Assembly_A1_Compare
+A3,Machine_A3_Compare,Assembly_A2_Compare
+A4,Machine_A4_Compare,Assembly_A2_Compare
+A5,Machine_A1_Compare,Assembly_A3_Compare
+A6,Machine_A2_Compare,Assembly_A3_Compare
+A7,Machine_A3_Compare,Assembly_A4_Compare
+A8,Machine_A4_Compare,Assembly_A4_Compare

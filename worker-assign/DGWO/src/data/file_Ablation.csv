@@ -1,0 +1,9 @@
+Case,Mach,Asse
+A1,Machine_C1_Ablation,Assembly_C1_Ablation
+A2,Machine_C2_Ablation,Assembly_C1_Ablation
+A3,Machine_C3_Ablation,Assembly_C2_Ablation
+A4,Machine_C4_Ablation,Assembly_C2_Ablation
+A5,Machine_C1_Ablation,Assembly_C3_Ablation
+A6,Machine_C2_Ablation,Assembly_C3_Ablation
+A7,Machine_C3_Ablation,Assembly_C4_Ablation
+A8,Machine_C4_Ablation,Assembly_C4_Ablation

@@ -1,0 +1,4 @@
+Case,Mach,Asse
+T1,Machine_A1_Taguchi,Assembly_A1_Taguchi
+T2,Machine_A2_Taguchi,Assembly_A1_Taguchi
+T3,Machine_A1_Taguchi,Assembly_A2_Taguchi
